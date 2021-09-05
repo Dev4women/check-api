@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(138, 74, 74);
+}
+.App {
+  
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 17px;
+}
